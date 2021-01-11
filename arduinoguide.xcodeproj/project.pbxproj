@@ -1,0 +1,417 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9CBF3B0924E9B9CD00ABB294 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B0824E9B9CD00ABB294 /* AppDelegate.swift */; };
+		9CBF3B0B24E9B9CD00ABB294 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B0A24E9B9CD00ABB294 /* SceneDelegate.swift */; };
+		9CBF3B0F24E9B9D100ABB294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B0E24E9B9D100ABB294 /* Assets.xcassets */; };
+		9CBF3B1224E9B9D100ABB294 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B1124E9B9D100ABB294 /* Preview Assets.xcassets */; };
+		9CBF3B1524E9B9D100ABB294 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B1324E9B9D100ABB294 /* LaunchScreen.storyboard */; };
+		9CBF3B1D24E9B9E200ABB294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B1C24E9B9E200ABB294 /* ContentView.swift */; };
+		9CBF3B2524E9B9F000ABB294 /* videorep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B1E24E9B9F000ABB294 /* videorep.swift */; };
+		9CBF3B2624E9B9F000ABB294 /* infoslide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B1F24E9B9F000ABB294 /* infoslide.swift */; };
+		9CBF3B2724E9B9F000ABB294 /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2024E9B9F000ABB294 /* IAPManager.swift */; };
+		9CBF3B2824E9B9F000ABB294 /* videoslide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2124E9B9F000ABB294 /* videoslide.swift */; };
+		9CBF3B2924E9B9F000ABB294 /* ultraexplained.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2224E9B9F000ABB294 /* ultraexplained.mp4 */; };
+		9CBF3B2A24E9B9F000ABB294 /* codeslide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2324E9B9F000ABB294 /* codeslide.swift */; };
+		9CBF3B2B24E9B9F000ABB294 /* schemslide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2424E9B9F000ABB294 /* schemslide.swift */; };
+		9CBF3B3524E9BC2300ABB294 /* buttonofficial.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B3124E9B9FE00ABB294 /* buttonofficial.mp4 */; };
+		9CBF3B3624E9BC2300ABB294 /* LCDOfficial.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2C24E9B9FD00ABB294 /* LCDOfficial.mp4 */; };
+		9CBF3B3724E9BC2300ABB294 /* LEDFINAL.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B3224E9B9FE00ABB294 /* LEDFINAL.mp4 */; };
+		9CBF3B3824E9BC2300ABB294 /* potentiometerofficial.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B3024E9B9FD00ABB294 /* potentiometerofficial.mp4 */; };
+		9CBF3B3924E9BC2300ABB294 /* servoofficial.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2D24E9B9FD00ABB294 /* servoofficial.mp4 */; };
+		9CBF3B3A24E9BC2300ABB294 /* tempsensor.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2E24E9B9FD00ABB294 /* tempsensor.mp4 */; };
+		9CBF3B3B24E9BC2300ABB294 /* ultrasonicofficial.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9CBF3B2F24E9B9FD00ABB294 /* ultrasonicofficial.mp4 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9CBF3B0524E9B9CD00ABB294 /* miniarduinoguide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = miniarduinoguide.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CBF3B0824E9B9CD00ABB294 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9CBF3B0A24E9B9CD00ABB294 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		9CBF3B0E24E9B9D100ABB294 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9CBF3B1124E9B9D100ABB294 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9CBF3B1424E9B9D100ABB294 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9CBF3B1624E9B9D100ABB294 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CBF3B1C24E9B9E200ABB294 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../TheMiniArduinoGuide/TheMiniArduinoGuide/ContentView.swift; sourceTree = "<group>"; };
+		9CBF3B1E24E9B9F000ABB294 /* videorep.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = videorep.swift; sourceTree = "<group>"; };
+		9CBF3B1F24E9B9F000ABB294 /* infoslide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = infoslide.swift; sourceTree = "<group>"; };
+		9CBF3B2024E9B9F000ABB294 /* IAPManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IAPManager.swift; sourceTree = "<group>"; };
+		9CBF3B2124E9B9F000ABB294 /* videoslide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = videoslide.swift; sourceTree = "<group>"; };
+		9CBF3B2224E9B9F000ABB294 /* ultraexplained.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ultraexplained.mp4; sourceTree = "<group>"; };
+		9CBF3B2324E9B9F000ABB294 /* codeslide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = codeslide.swift; sourceTree = "<group>"; };
+		9CBF3B2424E9B9F000ABB294 /* schemslide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = schemslide.swift; sourceTree = "<group>"; };
+		9CBF3B2C24E9B9FD00ABB294 /* LCDOfficial.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = LCDOfficial.mp4; sourceTree = "<group>"; };
+		9CBF3B2D24E9B9FD00ABB294 /* servoofficial.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = servoofficial.mp4; sourceTree = "<group>"; };
+		9CBF3B2E24E9B9FD00ABB294 /* tempsensor.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = tempsensor.mp4; sourceTree = "<group>"; };
+		9CBF3B2F24E9B9FD00ABB294 /* ultrasonicofficial.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ultrasonicofficial.mp4; sourceTree = "<group>"; };
+		9CBF3B3024E9B9FD00ABB294 /* potentiometerofficial.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = potentiometerofficial.mp4; sourceTree = "<group>"; };
+		9CBF3B3124E9B9FE00ABB294 /* buttonofficial.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = buttonofficial.mp4; sourceTree = "<group>"; };
+		9CBF3B3224E9B9FE00ABB294 /* LEDFINAL.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = LEDFINAL.mp4; sourceTree = "<group>"; };
+		9CBF3B3424E9BB1700ABB294 /* arduinoguide.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = arduinoguide.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9CBF3B0224E9B9CD00ABB294 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9CBF3AFC24E9B9CD00ABB294 = {
+			isa = PBXGroup;
+			children = (
+				9CBF3B0724E9B9CD00ABB294 /* arduinoguide */,
+				9CBF3B0624E9B9CD00ABB294 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9CBF3B0624E9B9CD00ABB294 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9CBF3B0524E9B9CD00ABB294 /* miniarduinoguide.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9CBF3B0724E9B9CD00ABB294 /* arduinoguide */ = {
+			isa = PBXGroup;
+			children = (
+				9CBF3B3424E9BB1700ABB294 /* arduinoguide.entitlements */,
+				9CBF3B1C24E9B9E200ABB294 /* ContentView.swift */,
+				9CBF3B1F24E9B9F000ABB294 /* infoslide.swift */,
+				9CBF3B2424E9B9F000ABB294 /* schemslide.swift */,
+				9CBF3B2324E9B9F000ABB294 /* codeslide.swift */,
+				9CBF3B2124E9B9F000ABB294 /* videoslide.swift */,
+				9CBF3B1E24E9B9F000ABB294 /* videorep.swift */,
+				9CBF3B0824E9B9CD00ABB294 /* AppDelegate.swift */,
+				9CBF3B0A24E9B9CD00ABB294 /* SceneDelegate.swift */,
+				9CBF3B2024E9B9F000ABB294 /* IAPManager.swift */,
+				9CBF3B2224E9B9F000ABB294 /* ultraexplained.mp4 */,
+				9CBF3B3124E9B9FE00ABB294 /* buttonofficial.mp4 */,
+				9CBF3B2C24E9B9FD00ABB294 /* LCDOfficial.mp4 */,
+				9CBF3B3224E9B9FE00ABB294 /* LEDFINAL.mp4 */,
+				9CBF3B3024E9B9FD00ABB294 /* potentiometerofficial.mp4 */,
+				9CBF3B2D24E9B9FD00ABB294 /* servoofficial.mp4 */,
+				9CBF3B2E24E9B9FD00ABB294 /* tempsensor.mp4 */,
+				9CBF3B2F24E9B9FD00ABB294 /* ultrasonicofficial.mp4 */,
+				9CBF3B0E24E9B9D100ABB294 /* Assets.xcassets */,
+				9CBF3B1324E9B9D100ABB294 /* LaunchScreen.storyboard */,
+				9CBF3B1624E9B9D100ABB294 /* Info.plist */,
+				9CBF3B1024E9B9D100ABB294 /* Preview Content */,
+			);
+			path = arduinoguide;
+			sourceTree = "<group>";
+		};
+		9CBF3B1024E9B9D100ABB294 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9CBF3B1124E9B9D100ABB294 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9CBF3B0424E9B9CD00ABB294 /* arduinoguide */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9CBF3B1924E9B9D100ABB294 /* Build configuration list for PBXNativeTarget "arduinoguide" */;
+			buildPhases = (
+				9CBF3B0124E9B9CD00ABB294 /* Sources */,
+				9CBF3B0224E9B9CD00ABB294 /* Frameworks */,
+				9CBF3B0324E9B9CD00ABB294 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = arduinoguide;
+			productName = arduinoguide;
+			productReference = 9CBF3B0524E9B9CD00ABB294 /* miniarduinoguide.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9CBF3AFD24E9B9CD00ABB294 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1160;
+				LastUpgradeCheck = 1160;
+				ORGANIZATIONNAME = Tavo;
+				TargetAttributes = {
+					9CBF3B0424E9B9CD00ABB294 = {
+						CreatedOnToolsVersion = 11.6;
+					};
+				};
+			};
+			buildConfigurationList = 9CBF3B0024E9B9CD00ABB294 /* Build configuration list for PBXProject "arduinoguide" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9CBF3AFC24E9B9CD00ABB294;
+			productRefGroup = 9CBF3B0624E9B9CD00ABB294 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9CBF3B0424E9B9CD00ABB294 /* arduinoguide */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9CBF3B0324E9B9CD00ABB294 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CBF3B3524E9BC2300ABB294 /* buttonofficial.mp4 in Resources */,
+				9CBF3B3624E9BC2300ABB294 /* LCDOfficial.mp4 in Resources */,
+				9CBF3B3724E9BC2300ABB294 /* LEDFINAL.mp4 in Resources */,
+				9CBF3B3824E9BC2300ABB294 /* potentiometerofficial.mp4 in Resources */,
+				9CBF3B3924E9BC2300ABB294 /* servoofficial.mp4 in Resources */,
+				9CBF3B3A24E9BC2300ABB294 /* tempsensor.mp4 in Resources */,
+				9CBF3B3B24E9BC2300ABB294 /* ultrasonicofficial.mp4 in Resources */,
+				9CBF3B1524E9B9D100ABB294 /* LaunchScreen.storyboard in Resources */,
+				9CBF3B1224E9B9D100ABB294 /* Preview Assets.xcassets in Resources */,
+				9CBF3B0F24E9B9D100ABB294 /* Assets.xcassets in Resources */,
+				9CBF3B2924E9B9F000ABB294 /* ultraexplained.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9CBF3B0124E9B9CD00ABB294 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CBF3B2724E9B9F000ABB294 /* IAPManager.swift in Sources */,
+				9CBF3B2B24E9B9F000ABB294 /* schemslide.swift in Sources */,
+				9CBF3B2624E9B9F000ABB294 /* infoslide.swift in Sources */,
+				9CBF3B0924E9B9CD00ABB294 /* AppDelegate.swift in Sources */,
+				9CBF3B2824E9B9F000ABB294 /* videoslide.swift in Sources */,
+				9CBF3B0B24E9B9CD00ABB294 /* SceneDelegate.swift in Sources */,
+				9CBF3B1D24E9B9E200ABB294 /* ContentView.swift in Sources */,
+				9CBF3B2A24E9B9F000ABB294 /* codeslide.swift in Sources */,
+				9CBF3B2524E9B9F000ABB294 /* videorep.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		9CBF3B1324E9B9D100ABB294 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CBF3B1424E9B9D100ABB294 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9CBF3B1724E9B9D100ABB294 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9CBF3B1824E9B9D100ABB294 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9CBF3B1A24E9B9D100ABB294 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = arduinoguide/arduinoguide.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.01;
+				DEVELOPMENT_ASSET_PATHS = "\"arduinoguide/Preview Content\"";
+				DEVELOPMENT_TEAM = 3Z8M972977;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = arduinoguide/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tavo.arduinoguide;
+				PRODUCT_NAME = miniarduinoguide;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9CBF3B1B24E9B9D100ABB294 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = arduinoguide/arduinoguide.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.01;
+				DEVELOPMENT_ASSET_PATHS = "\"arduinoguide/Preview Content\"";
+				DEVELOPMENT_TEAM = 3Z8M972977;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = arduinoguide/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tavo.arduinoguide;
+				PRODUCT_NAME = miniarduinoguide;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9CBF3B0024E9B9CD00ABB294 /* Build configuration list for PBXProject "arduinoguide" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CBF3B1724E9B9D100ABB294 /* Debug */,
+				9CBF3B1824E9B9D100ABB294 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9CBF3B1924E9B9D100ABB294 /* Build configuration list for PBXNativeTarget "arduinoguide" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CBF3B1A24E9B9D100ABB294 /* Debug */,
+				9CBF3B1B24E9B9D100ABB294 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9CBF3AFD24E9B9CD00ABB294 /* Project object */;
+}

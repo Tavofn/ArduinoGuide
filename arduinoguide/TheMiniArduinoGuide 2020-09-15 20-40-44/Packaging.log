@@ -1,0 +1,170 @@
+2020-09-16 01:38:27 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f985b2886d0; archive(resolved)='<IDEArchive: 0x7f9858d7b2b0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f985b2886d0; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f985b2d6730; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f985a23f7d0; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f983f5e1330; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f983eca85f0; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f985cf33130; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f985cf23830; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f985cf173a0; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f985b27df80; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9856dec8c0; teamID='3Z8M972977', teamName='Henry Palma', teamType='Individual', username='tavovnt@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f985b3e9f60; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='(null)'>
+	<IDEDistributionContext: 0x7f983ece7bd0; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9859f0f750>', team='(null)'>
+	<IDEDistributionContext: 0x7f985b381810; archive = '<IDEArchive: 0x7f9858d7b2b0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f985b2886d0>
+2020-09-16 01:38:27 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-09-16 01:38:27 +0000  Processing step: IDEDistributionCopyItemStep
+2020-09-16 01:38:27 +0000  Running /usr/bin/ditto '-V' '/Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/Products/Applications/Arduino Pocket Guide.app' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root/Payload/Arduino Pocket Guide.app'
+2020-09-16 01:38:27 +0000  >>> Copying /Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/Products/Applications/Arduino Pocket Guide.app 
+2020-09-16 01:38:27 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-09-16 01:38:27 +0000  5603 bytes for ./_CodeSignature/CodeResources
+2020-09-16 01:38:27 +0000  copying file ./buttonofficial.mp4 ... 
+2020-09-16 01:38:28 +0000  211884662 bytes for ./buttonofficial.mp4
+2020-09-16 01:38:28 +0000  copying file ./Menu.sks ... 
+2020-09-16 01:38:28 +0000  3741 bytes for ./Menu.sks
+2020-09-16 01:38:28 +0000  copying file ./AppIcon60x60@2x.png ... 
+2020-09-16 01:38:28 +0000  4515 bytes for ./AppIcon60x60@2x.png
+2020-09-16 01:38:28 +0000  copying file ./Arduino Pocket Guide ... 
+2020-09-16 01:38:28 +0000  1438016 bytes for ./Arduino Pocket Guide
+copying file ./LAYOUT.sks ... 
+2020-09-16 01:38:28 +0000  3751 bytes for ./LAYOUT.sks
+copying file ./(invalid)FreeMenu.sks ... 
+2020-09-16 01:38:28 +0000  3681 bytes for ./(invalid)FreeMenu.sks
+2020-09-16 01:38:28 +0000  copying file ./tempsensor.mp4 ... 
+2020-09-16 01:38:30 +0000  289687131 bytes for ./tempsensor.mp4
+2020-09-16 01:38:30 +0000  copying file ./ultrasonicofficial.mp4 ... 
+2020-09-16 01:38:31 +0000  230619141 bytes for ./ultrasonicofficial.mp4
+2020-09-16 01:38:31 +0000  copying file ./Assets.car ... 
+2020-09-16 01:38:31 +0000  9139608 bytes for ./Assets.car
+2020-09-16 01:38:31 +0000  copying file ./potentiometerofficial.mp4 ... 
+2020-09-16 01:38:32 +0000  111140197 bytes for ./potentiometerofficial.mp4
+2020-09-16 01:38:32 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-09-16 01:38:32 +0000  5807 bytes for ./AppIcon76x76@2x~ipad.png
+2020-09-16 01:38:32 +0000  copying file ./LEDFINAL.mp4 ... 
+2020-09-16 01:38:32 +0000  122189243 bytes for ./LEDFINAL.mp4
+2020-09-16 01:38:32 +0000  copying file ./LaunchImage-700-568h@2x.png ... 
+2020-09-16 01:38:32 +0000  15022 bytes for ./LaunchImage-700-568h@2x.png
+2020-09-16 01:38:32 +0000  copying file ./CODE.sks ... 
+2020-09-16 01:38:32 +0000  3749 bytes for ./CODE.sks
+2020-09-16 01:38:32 +0000  copying file ./INFO.sks ... 
+2020-09-16 01:38:32 +0000  3684 bytes for ./INFO.sks
+2020-09-16 01:38:32 +0000  copying file ./servoofficial.mp4 ... 
+2020-09-16 01:38:34 +0000  231691025 bytes for ./servoofficial.mp4
+2020-09-16 01:38:34 +0000  copying file ./embedded.mobileprovision ... 
+2020-09-16 01:38:34 +0000  7396 bytes for ./embedded.mobileprovision
+copying file ./LCDOfficial.mp4 ... 
+2020-09-16 01:38:37 +0000  555132349 bytes for ./LCDOfficial.mp4
+2020-09-16 01:38:37 +0000  copying file ./Info.plist ... 
+1791 bytes for ./Info.plist
+2020-09-16 01:38:37 +0000  copying file ./PkgInfo ... 
+2020-09-16 01:38:37 +0000  8 bytes for ./PkgInfo
+2020-09-16 01:38:37 +0000  /usr/bin/ditto exited with 0
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-09-16 01:38:37 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionItemRemovalStep
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-09-16 01:38:37 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-09-16 01:38:37 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-09-16 01:38:37 +0000  Running /usr/bin/ditto '-V' '/Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/BCSymbolMaps/067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root/BCSymbolMaps/067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap'
+2020-09-16 01:38:37 +0000  >>> Copying /Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/BCSymbolMaps/067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap 
+2020-09-16 01:38:37 +0000  copying file ./067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap ... 
+2020-09-16 01:38:37 +0000  234805 bytes for ./067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap
+2020-09-16 01:38:37 +0000  /usr/bin/ditto exited with 0
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionSymbolsStep
+2020-09-16 01:38:37 +0000  Excluding symbols for Arduino Pocket Guide.app
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionAppThinningStep
+2020-09-16 01:38:37 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionArchThinningStep
+2020-09-16 01:38:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root/Payload/Arduino Pocket Guide.app/Arduino Pocket Guide' '-verify_arch' 'arm64e'
+2020-09-16 01:38:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-09-16 01:38:37 +0000  Skipping architecture thinning for item "Arduino Pocket Guide" because arch "arm64e" wasn't found
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionODRStep
+2020-09-16 01:38:37 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-09-16 01:38:37 +0000  Running /usr/bin/xattr '-crs' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root/Payload/Arduino Pocket Guide.app'
+2020-09-16 01:38:38 +0000  /usr/bin/xattr exited with 0
+2020-09-16 01:38:38 +0000  Processing step: IDEDistributionCodesignStep
+2020-09-16 01:38:38 +0000  Entitlements for <IDEDistributionItem: 0x7f985c9434f0; bundleID='com.buildandteach.ArduinoMiniGuide', path='<DVTFilePath:0x7f985b6462f0:'/Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/Products/Applications/Arduino Pocket Guide.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f983f1095a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f985b37b560; name='Apple Development: Henry Palma (QJKJ93Z4FZ)', hash='F083195E5E4BFC5CF846B59711514B1A7685E6A5', serialNumber='3F6DFAE68C840688', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-12-08 04:00:23 +0000''>', entitlements='{
+    "application-identifier" = "3Z8M972977.com.buildandteach.ArduinoMiniGuide";
+    "com.apple.developer.team-identifier" = 3Z8M972977;
+    "get-task-allow" = 1;
+}', teamID='3Z8M972977', identifier='com.buildandteach.ArduinoMiniGuide', executablePath='<DVTFilePath:0x7f985b19ba50:'/Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/Products/Applications/Arduino Pocket Guide.app/Arduino Pocket Guide'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "3Z8M972977.com.buildandteach.ArduinoMiniGuide";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 3Z8M972977;
+    "get-task-allow" = 0;
+}
+2020-09-16 01:38:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7f985c9434f0; bundleID='com.buildandteach.ArduinoMiniGuide', path='<DVTFilePath:0x7f985b6462f0:'/Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/Products/Applications/Arduino Pocket Guide.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f983f1095a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f985b3d45d0; name='Apple Development: Henry Palma (QJKJ93Z4FZ)', hash='F083195E5E4BFC5CF846B59711514B1A7685E6A5', serialNumber='3F6DFAE68C840688', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-12-08 04:00:23 +0000''>', entitlements='{
+    "application-identifier" = "3Z8M972977.com.buildandteach.ArduinoMiniGuide";
+    "com.apple.developer.team-identifier" = 3Z8M972977;
+    "get-task-allow" = 1;
+}', teamID='3Z8M972977', identifier='com.buildandteach.ArduinoMiniGuide', executablePath='<DVTFilePath:0x7f985b19ba50:'/Users/Macintosh_HD/Library/Developer/Xcode/Archives/2020-09-15/TheMiniArduinoGuide 9-15-20, 8.17 PM.xcarchive/Products/Applications/Arduino Pocket Guide.app/Arduino Pocket Guide'>', hardenedRuntime='0'>'> to: /var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/entitlements~~~mRbXZx
+2020-09-16 01:38:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '246D9D8413D208CF1B00080132BB8A0A85115D60' '--entitlements' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/entitlements~~~mRbXZx' '--preserve-metadata=identifier,flags,runtime' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root/Payload/Arduino Pocket Guide.app'
+2020-09-16 01:39:06 +0000  /var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root/Payload/Arduino Pocket Guide.app: signed app bundle with Mach-O thin (arm64) [com.buildandteach.ArduinoMiniGuide]
+2020-09-16 01:39:06 +0000  /usr/bin/codesign exited with 0
+2020-09-16 01:39:06 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-09-16 01:39:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-09-16 01:39:06 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-09-16 01:39:06 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root' '/var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Packages/TheMiniArduinoGuide.ipa'
+2020-09-16 01:39:06 +0000  >>> Copying /var/folders/sc/hv0f2dcj65s0lls1dbnc__5c0000gn/T/XcodeDistPipeline.~~~LhOL44/Root 
+2020-09-16 01:39:06 +0000  copying file ./BCSymbolMaps/067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap ... 
+2020-09-16 01:39:06 +0000  234805 bytes for ./BCSymbolMaps/067A5147-0576-3EE2-80BE-F5768001D3DF.bcsymbolmap
+2020-09-16 01:39:06 +0000  copying file ./Payload/Arduino Pocket Guide.app/_CodeSignature/CodeResources ... 
+2020-09-16 01:39:06 +0000  5603 bytes for ./Payload/Arduino Pocket Guide.app/_CodeSignature/CodeResources
+2020-09-16 01:39:06 +0000  copying file ./Payload/Arduino Pocket Guide.app/buttonofficial.mp4 ... 
+2020-09-16 01:39:12 +0000  211884662 bytes for ./Payload/Arduino Pocket Guide.app/buttonofficial.mp4
+2020-09-16 01:39:12 +0000  copying file ./Payload/Arduino Pocket Guide.app/Menu.sks ... 
+2020-09-16 01:39:12 +0000  3741 bytes for ./Payload/Arduino Pocket Guide.app/Menu.sks
+2020-09-16 01:39:12 +0000  copying file ./Payload/Arduino Pocket Guide.app/AppIcon60x60@2x.png ... 
+2020-09-16 01:39:12 +0000  4515 bytes for ./Payload/Arduino Pocket Guide.app/AppIcon60x60@2x.png
+copying file ./Payload/Arduino Pocket Guide.app/Arduino Pocket Guide ... 
+2020-09-16 01:39:13 +0000  1146960 bytes for ./Payload/Arduino Pocket Guide.app/Arduino Pocket Guide
+2020-09-16 01:39:13 +0000  copying file ./Payload/Arduino Pocket Guide.app/LAYOUT.sks ... 
+2020-09-16 01:39:13 +0000  3751 bytes for ./Payload/Arduino Pocket Guide.app/LAYOUT.sks
+copying file ./Payload/Arduino Pocket Guide.app/(invalid)FreeMenu.sks ... 
+2020-09-16 01:39:13 +0000  3681 bytes for ./Payload/Arduino Pocket Guide.app/(invalid)FreeMenu.sks
+2020-09-16 01:39:13 +0000  copying file ./Payload/Arduino Pocket Guide.app/tempsensor.mp4 ... 
+2020-09-16 01:39:21 +0000  289687131 bytes for ./Payload/Arduino Pocket Guide.app/tempsensor.mp4
+2020-09-16 01:39:21 +0000  copying file ./Payload/Arduino Pocket Guide.app/ultrasonicofficial.mp4 ... 
+2020-09-16 01:39:28 +0000  230619141 bytes for ./Payload/Arduino Pocket Guide.app/ultrasonicofficial.mp4
+2020-09-16 01:39:28 +0000  copying file ./Payload/Arduino Pocket Guide.app/Assets.car ... 
+2020-09-16 01:39:29 +0000  9139608 bytes for ./Payload/Arduino Pocket Guide.app/Assets.car
+2020-09-16 01:39:29 +0000  copying file ./Payload/Arduino Pocket Guide.app/potentiometerofficial.mp4 ... 
+2020-09-16 01:39:32 +0000  111140197 bytes for ./Payload/Arduino Pocket Guide.app/potentiometerofficial.mp4
+2020-09-16 01:39:32 +0000  copying file ./Payload/Arduino Pocket Guide.app/AppIcon76x76@2x~ipad.png ... 
+2020-09-16 01:39:32 +0000  5807 bytes for ./Payload/Arduino Pocket Guide.app/AppIcon76x76@2x~ipad.png
+2020-09-16 01:39:32 +0000  copying file ./Payload/Arduino Pocket Guide.app/LEDFINAL.mp4 ... 
+2020-09-16 01:39:35 +0000  122189243 bytes for ./Payload/Arduino Pocket Guide.app/LEDFINAL.mp4
+2020-09-16 01:39:35 +0000  copying file ./Payload/Arduino Pocket Guide.app/LaunchImage-700-568h@2x.png ... 
+2020-09-16 01:39:35 +0000  15022 bytes for ./Payload/Arduino Pocket Guide.app/LaunchImage-700-568h@2x.png
+copying file ./Payload/Arduino Pocket Guide.app/CODE.sks ... 
+2020-09-16 01:39:35 +0000  3749 bytes for ./Payload/Arduino Pocket Guide.app/CODE.sks
+2020-09-16 01:39:35 +0000  copying file ./Payload/Arduino Pocket Guide.app/INFO.sks ... 
+2020-09-16 01:39:35 +0000  3684 bytes for ./Payload/Arduino Pocket Guide.app/INFO.sks
+2020-09-16 01:39:35 +0000  copying file ./Payload/Arduino Pocket Guide.app/servoofficial.mp4 ... 
+2020-09-16 01:39:42 +0000  231691025 bytes for ./Payload/Arduino Pocket Guide.app/servoofficial.mp4
+2020-09-16 01:39:42 +0000  copying file ./Payload/Arduino Pocket Guide.app/embedded.mobileprovision ... 
+2020-09-16 01:39:42 +0000  7351 bytes for ./Payload/Arduino Pocket Guide.app/embedded.mobileprovision
+2020-09-16 01:39:42 +0000  copying file ./Payload/Arduino Pocket Guide.app/LCDOfficial.mp4 ... 
+2020-09-16 01:39:59 +0000  555132349 bytes for ./Payload/Arduino Pocket Guide.app/LCDOfficial.mp4
+2020-09-16 01:39:59 +0000  copying file ./Payload/Arduino Pocket Guide.app/Info.plist ... 
+1791 bytes for ./Payload/Arduino Pocket Guide.app/Info.plist
+copying file ./Payload/Arduino Pocket Guide.app/PkgInfo ... 
+2020-09-16 01:39:59 +0000  8 bytes for ./Payload/Arduino Pocket Guide.app/PkgInfo
+2020-09-16 01:39:59 +0000  /usr/bin/ditto exited with 0
+2020-09-16 01:39:59 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-09-16 01:39:59 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-09-16 01:39:59 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-09-16 01:39:59 +0000  Processing step: IDEDistributionCreateManifestStep
+2020-09-16 01:39:59 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

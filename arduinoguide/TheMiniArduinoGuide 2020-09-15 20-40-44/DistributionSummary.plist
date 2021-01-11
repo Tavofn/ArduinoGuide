@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TheMiniArduinoGuide.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>246D9D8413D208CF1B00080132BB8A0A85115D60</string>
+				<key>dateExpires</key>
+				<string>12/6/20</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3Z8M972977.com.buildandteach.ArduinoMiniGuide</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3Z8M972977</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Arduino Pocket Guide.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f61493f6-a6c8-4150-89eb-2d00a4e60ad0</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.buildandteach.ArduinoMiniGuide</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3Z8M972977</string>
+				<key>name</key>
+				<string>Henry Palma</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
